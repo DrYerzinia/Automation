@@ -1,0 +1,21 @@
+unnamed_net9	PROGPIC-3 U1-12 
+unnamed_net8	PROGPIC-2 U1-13 
+unnamed_net7	PROGPIC-4 U1-4 
+SCRCntl	U1-3 
+Signal	U1-2 
+unnamed_net6	U1-5 U3-6 
+unnamed_net5	U1-6 U3-5 
+unnamed_net4	U1-7 U3-4 
+SDA	U1-9 OUT-4 IN-4 
+SCL	U1-10 OUT-3 IN-3 
+SIgnal	OUT-2 IN-2 
++3.3V	PROGPIC-1 C1-2 U1-1 OUT-1 IN-1 
+SRCCntl	R1-2 
+Switch	U1-8 SWITCH-1 
+GND	C1-1 PROGPIC-5 U1-14 U3-3 U3-2 U3-1 OUT-5 IN-5 SWITCH-2 U2-2 
+unnamed_net3	R1-1 U2-1 
+unnamed_net2	R2-1 U2-4 
+unnamed_net1	U2-3 SCR1-3 
+HotOut	ACCTL-1 SCR1-2 
+Neutral	ACOUT-2 ACCTL-2 ACIN-2 
+HotIn	ACOUT-1 R2-2 SCR1-1 ACIN-1 
