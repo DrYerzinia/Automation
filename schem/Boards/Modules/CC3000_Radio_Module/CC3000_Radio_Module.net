@@ -1,0 +1,27 @@
+unnamed_net15	ANT1-1 L2-2 C4-2 
+unnamed_net14	L1-2 C4-1 U3-35 
+unnamed_net13	U3-39 U3-29 
+unnamed_net12	U3-28 U3-27 
+unnamed_net11	TP3-1 U3-24 
+unnamed_net10	TP5-1 U3-8 
+unnamed_net9	TP4-1 U3-6 
+unnamed_net8	U3-7 U3-5 
+unnamed_net7	TP2-1 U3-4 
+unnamed_net6	TP1-1 U3-2 
+INT	U3-14 U1-11 
+CS	U3-12 U1-14 
+SCK	U3-17 U1-15 
+SDO	U3-15 U1-16 
+SDI	U3-13 U1-17 
+ENABLE	U3-26 U1-18 
+unnamed_net5	U1-6 
+unnamed_net4	U1-3 PROGPIC-4 
+unnamed_net3	U1-2 PROGPIC-3 
+unnamed_net2	U1-1 PROGPIC-2 
+unnamed_net1	J1-2 OUT-2 
+GND	C2-1 C3-1 L2-1 L1-1 U3-46 U3-21 U3-22 U3-20 U3-18 U3-25 U3-31 U3-32 U3-33 U3-34 U3-36 U3-37 U3-38 U3-39 U3-40 U3-41 U3-42 U3-43 U3-44 U3-45 U3-16 U3-11 U3-10 U3-9 U3-1 U1-19 PROGPIC-5 C1-1 U2-7 U2-3 \
+ U2-2 U2-4 U2-1 OUT-5 IN-5 
+SDA	U1-13 U2-5 OUT-4 IN-4 
+SCL	U1-12 U2-6 OUT-3 IN-3 
+SIG	U1-10 J1-1 IN-2 
++3.3V	U3-23 C3-2 C2-2 U3-19 PROGPIC-1 U1-20 C1-2 U?-? OUT-1 IN-1 
